@@ -1,0 +1,2226 @@
+Name API: RefreshTenantCache
+Time: 10.989
+
+Name API: RefreshTenantCache
+Time: 26.938
+
+Name API: RefreshTenantCache
+Time: 8.059
+
+Name API: RefreshTenantCache
+Time: 31.129
+
+Name API: RunSystemInit
+Time: 64.225
+
+Name API: RefreshTenantCache
+Time: 4.5
+
+Name API: RefreshTenantCache
+Time: 17.908
+
+Name API: RefreshTenantCache
+Time: 5.956
+
+Name API: RefreshTenantCache
+Time: 11.627
+
+Name API: RunSystemInit
+Time: 13.83
+
+Name API: RefreshTenantCache
+Time: 17.157
+
+Name API: LoadTenant
+Time: 41.863
+
+Name API: GetAccountContacts
+Time: 6.448
+
+Name API: ContactManagement
+Time: 6.874
+
+Name API: AddContact
+Time: 36.759
+
+Name API: AddressManagement
+Time: 8.534
+
+Name API: AddAddress
+Time: 6.373
+
+Name API: LookupAccount
+Time: 8.07
+
+Name API: ContractManagement
+Time: 9.626
+
+Name API: AddContract
+Time: 7.887
+
+Name API: AddBalances
+Time: 14.698
+
+Name API: CreateAccount
+Time: 21.701
+
+Name API: GetAccountProducts
+Time: 8.117
+
+Name API: GetAccountLC
+Time: 7.748
+
+Name API: GetAccountAddress
+Time: 6.872
+
+Name API: CheckBalance
+Time: 6.553
+
+Name API: GetAccountBalances
+Time: 18.773
+
+Name API: GetAccountContacts
+Time: 10.523
+
+Name API: GetAccountContracts
+Time: 6.87
+
+Name API: GetAccountBillingProfile
+Time: 6.598
+
+Name API: GetAccountBankInfo
+Time: 7.15
+
+Name API: GetAccountPayments
+Time: 9.033
+
+Name API: GetAccPmtProfiles
+Time: 6.911
+
+Name API: GetAccountInfo
+Time: 34.948
+
+Name API: GetProductInfo
+Time: 12.937
+
+Name API: LookupAccount
+Time: 8.721
+
+Name API: GetAccountProducts
+Time: 8.886
+
+Name API: GetProductInfo
+Time: 35.682
+
+Name API: LookupAccount
+Time: 9.209
+
+Name API: GetProductInfo
+Time: 13.493
+
+Name API: LookupAccount
+Time: 7.803
+
+Name API: GetAccountProducts
+Time: 7.453
+
+Name API: GetAccountContracts
+Time: 8.755
+
+Name API: GetAccountInfo
+Time: 36.085
+
+Name API: GetAccountProducts
+Time: 26.171
+
+Name API: AddProduct
+Time: 327.642
+
+Name API: AddBalances
+Time: 11.109
+
+Name API: GetAccountProducts
+Time: 24.257
+
+Name API: GetAccountLC
+Time: 6.651
+
+Name API: GetAccountAddress
+Time: 7.572
+
+Name API: CheckBalance
+Time: 8.007
+
+Name API: GetAccountBalances
+Time: 28.003
+
+Name API: GetAccountContacts
+Time: 10.182
+
+Name API: GetAccountContracts
+Time: 7.93
+
+Name API: GetAccountBillingProfile
+Time: 8.164
+
+Name API: GetAccountBankInfo
+Time: 7.882
+
+Name API: GetAccountPayments
+Time: 6.993
+
+Name API: GetAccPmtProfiles
+Time: 6.983
+
+Name API: GetAccountInfo
+Time: 60.016
+
+Name API: LookupAccount
+Time: 6.547
+
+Name API: ProcessEvent
+Time: 21.26
+
+Name API: LookupAccount
+Time: 7.058
+
+Name API: ProcessEvent
+Time: 58.381
+
+Name API: LookupAccount
+Time: 8.966
+
+Name API: ProcessEvent
+Time: 22.685
+
+Name API: LookupAccount
+Time: 5.465
+
+Name API: ProcessEvent
+Time: 18.282
+
+Name API: LookupAccount
+Time: 4.987
+
+Name API: ProcessEvent
+Time: 34.004
+
+Name API: LookupAccount
+Time: 7.516
+
+Name API: ProcessEvent
+Time: 35.939
+
+Name API: LookupAccount
+Time: 7.199
+
+Name API: ProcessEvent
+Time: 34.805
+
+Name API: LookupAccount
+Time: 8.185
+
+Name API: ProcessEvent
+Time: 29.351
+
+Name API: LookupAccount
+Time: 6.65
+
+Name API: ProcessEvent
+Time: 44.477
+
+Name API: RefreshTenantCache
+Time: 2.999
+
+Name API: RefreshTenantCache
+Time: 58.625
+
+Name API: RefreshTenantCache
+Time: 12.557
+
+Name API: RefreshTenantCache
+Time: 18.24
+
+Name API: RunSystemInit
+Time: 6.996
+
+Name API: ApplyUpgrade
+Time: 113.074
+
+Name API: RefreshTenantCache
+Time: 16.85
+
+Name API: RefreshTenantCache
+Time: 17.08
+
+Name API: RefreshTenantCache
+Time: 17.384
+
+Name API: RefreshTenantCache
+Time: 7.922
+
+Name API: RefreshTenantCache
+Time: 7.427
+
+Name API: RunSystemInit
+Time: 8.33
+
+Name API: RefreshTenantCache
+Time: 66.665
+
+Name API: LoadTenant
+Time: 56.373
+
+Name API: GetAccountContacts
+Time: 7.437
+
+Name API: ContactManagement
+Time: 9.381
+
+Name API: AddContact
+Time: 20.38
+
+Name API: AddressManagement
+Time: 10.012
+
+Name API: AddAddress
+Time: 12.125
+
+Name API: LookupAccount
+Time: 7.322
+
+Name API: ContractManagement
+Time: 6.438
+
+Name API: AddContract
+Time: 7.719
+
+Name API: AddBalances
+Time: 9.421
+
+Name API: GetProductInfo
+Time: 7.476
+
+Name API: GetAccountProducts
+Time: 6.059
+
+Name API: GetAccountContracts
+Time: 9.637
+
+Name API: GetAccountInfo
+Time: 9.593
+
+Name API: GetAccountProducts
+Time: 24.12
+
+Name API: AddProduct
+Time: 62.36
+
+Name API: CreateAccount
+Time: 104.47
+
+Name API: AddBalances
+Time: 30.313
+
+Name API: LookupAccount
+Time: 5.784
+
+Name API: LookupAccount
+Time: 7.548
+
+Name API: LookupAccount
+Time: 24.821
+
+Name API: GetAccountProducts
+Time: 24.21
+
+Name API: GetAccountLC
+Time: 10.444
+
+Name API: GetAccountLC
+Time: 8.699
+
+Name API: SetLC
+Time: 45.437
+
+Name API: GetAccountAddress
+Time: 8.805
+
+Name API: LookupAccount
+Time: 7.757
+
+Name API: CheckBalance
+Time: 49.627
+
+Name API: LookupAccount
+Time: 10.015
+
+Name API: GetAccountBalances
+Time: 10.097
+
+Name API: GetAccountLC
+Time: 9.386
+
+Name API: GetAccountContacts
+Time: 16.472
+
+Name API: SetLC
+Time: 21.78
+
+Name API: GetAccountContracts
+Time: 8.408
+
+Name API: LookupAccount
+Time: 30.981
+
+Name API: GetAccountLC
+Time: 9.924
+
+Name API: ApplyLCTemplate
+Time: 31.989
+
+Name API: GetAccountBillingProfile
+Time: 13.561
+
+Name API: GetAccountBankInfo
+Time: 7.119
+
+Name API: GetAccountPayments
+Time: 7.078
+
+Name API: GetAccPmtProfiles
+Time: 10.779
+
+Name API: GetAccountInfo
+Time: 31.599
+
+Name API: GetAccountContacts
+Time: 9.546
+
+Name API: ContactManagement
+Time: 9.246
+
+Name API: AddContact
+Time: 5.763
+
+Name API: AddressManagement
+Time: 6.801
+
+Name API: AddAddress
+Time: 19.452
+
+Name API: LookupAccount
+Time: 9.939
+
+Name API: ContractManagement
+Time: 6.703
+
+Name API: AddContract
+Time: 6.268
+
+Name API: AddBalances
+Time: 8.013
+
+Name API: GetProductInfo
+Time: 6.826
+
+Name API: GetAccountProducts
+Time: 16.755
+
+Name API: GetAccountContracts
+Time: 5.788
+
+Name API: GetAccountInfo
+Time: 7.332
+
+Name API: GetAccountProducts
+Time: 10.335
+
+Name API: AddProduct
+Time: 32.288
+
+Name API: CreateAccount
+Time: 22.421
+
+Name API: AddBalances
+Time: 27.176
+
+Name API: LookupAccount
+Time: 15.072
+
+Name API: LookupAccount
+Time: 9.839
+
+Name API: GetAccountProducts
+Time: 14.66
+
+Name API: LookupAccount
+Time: 8.128
+
+Name API: GetAccountLC
+Time: 10.256
+
+Name API: GetAccountLC
+Time: 34.086
+
+Name API: SetLC
+Time: 28.921
+
+Name API: GetAccountAddress
+Time: 63.59
+
+Name API: LookupAccount
+Time: 8.427
+
+Name API: CheckBalance
+Time: 17.561
+
+Name API: GetAccountBalances
+Time: 14.194
+
+Name API: LookupAccount
+Time: 7.2
+
+Name API: GetAccountContacts
+Time: 20.42
+
+Name API: GetAccountLC
+Time: 14.082
+
+Name API: GetAccountContracts
+Time: 26.502
+
+Name API: SetLC
+Time: 57.734
+
+Name API: GetAccountBillingProfile
+Time: 8.237
+
+Name API: LookupAccount
+Time: 19.682
+
+Name API: GetAccountLC
+Time: 9.408
+
+Name API: ApplyLCTemplate
+Time: 44.109
+
+Name API: GetAccountBankInfo
+Time: 36.979
+
+Name API: GetAccountPayments
+Time: 6.476
+
+Name API: GetAccPmtProfiles
+Time: 11.963
+
+Name API: GetAccountInfo
+Time: 15.054
+
+Name API: GetAccountProducts
+Time: 9.762
+
+Name API: GetAccountLC
+Time: 7.375
+
+Name API: GetAccountAddress
+Time: 8.967
+
+Name API: CheckBalance
+Time: 8.823
+
+Name API: GetAccountBalances
+Time: 22.951
+
+Name API: GetAccountContacts
+Time: 6.618
+
+Name API: GetAccountContracts
+Time: 8.187
+
+Name API: GetAccountBillingProfile
+Time: 6.302
+
+Name API: GetAccountBankInfo
+Time: 18.083
+
+Name API: GetAccountPayments
+Time: 8.195
+
+Name API: GetAccPmtProfiles
+Time: 12.707
+
+Name API: GetAccountInfo
+Time: 15.307
+
+Name API: LookupAccount
+Time: 13.878
+
+Name API: CheckBalance
+Time: 16.516
+
+Name API: CheckBalanceActual
+Time: 17.794
+
+Name API: GetAccountProducts
+Time: 15.327
+
+Name API: GetAccountLC
+Time: 7.448
+
+Name API: GetAccountAddress
+Time: 7.756
+
+Name API: CheckBalance
+Time: 20.87
+
+Name API: GetAccountBalances
+Time: 18.616
+
+Name API: GetAccountContacts
+Time: 7.575
+
+Name API: GetAccountContracts
+Time: 8.352
+
+Name API: GetAccountBillingProfile
+Time: 6.526
+
+Name API: GetAccountBankInfo
+Time: 7.637
+
+Name API: GetAccountPayments
+Time: 8.685
+
+Name API: GetAccPmtProfiles
+Time: 7.529
+
+Name API: GetAccountInfo
+Time: 14.693
+
+Name API: GetProductInfo
+Time: 48.092
+
+Name API: LookupAccount
+Time: 11.065
+
+Name API: GetAccountProducts
+Time: 11.458
+
+Name API: GetProductInfo
+Time: 9.598
+
+Name API: LookupAccount
+Time: 9.365
+
+Name API: GetProductInfo
+Time: 11.894
+
+Name API: LookupAccount
+Time: 7.253
+
+Name API: GetAccountProducts
+Time: 9.853
+
+Name API: GetAccountContracts
+Time: 9.731
+
+Name API: GetAccountInfo
+Time: 10.729
+
+Name API: LookupAccount
+Time: 6.547
+
+Name API: GetAccountProducts
+Time: 8.85
+
+Name API: UpdateSoldProductLC
+Time: 66.205
+
+Name API: TerminateProduct
+Time: 15.928
+
+Name API: GetAccountProducts
+Time: 10.169
+
+Name API: AddProduct
+Time: 90.421
+
+Name API: AddBalances
+Time: 50.386
+
+Name API: LookupAccount
+Time: 15.888
+
+Name API: LookupAccount
+Time: 9.013
+
+Name API: LookupAccount
+Time: 45.305
+
+Name API: GetAccountLC
+Time: 58.556
+
+Name API: SetLC
+Time: 50.099
+
+Name API: LookupAccount
+Time: 11.47
+
+Name API: GetAccountLC
+Time: 12.285
+
+Name API: ApplyLCTemplate
+Time: 26.883
+
+Name API: GetAccountProducts
+Time: 15.185
+
+Name API: GetAccountLC
+Time: 6.53
+
+Name API: GetAccountAddress
+Time: 6.29
+
+Name API: CheckBalance
+Time: 6.308
+
+Name API: GetAccountBalances
+Time: 23.432
+
+Name API: GetAccountContacts
+Time: 7.158
+
+Name API: GetAccountContracts
+Time: 10.1
+
+Name API: GetAccountBillingProfile
+Time: 7.55
+
+Name API: GetAccountBankInfo
+Time: 8.665
+
+Name API: GetAccountPayments
+Time: 9.062
+
+Name API: GetAccPmtProfiles
+Time: 7.084
+
+Name API: GetAccountInfo
+Time: 18.259
+
+Name API: LookupAccount
+Time: 16.092
+
+Name API: GetAccountProducts
+Time: 14.509
+
+Name API: GetProductInfo
+Time: 9.217
+
+Name API: LookupAccount
+Time: 8.127
+
+Name API: GetAccountProducts
+Time: 12.787
+
+Name API: GetProductInfo
+Time: 12.243
+
+Name API: GetAccountProducts
+Time: 18.372
+
+Name API: GetAccountLC
+Time: 10.458
+
+Name API: GetAccountAddress
+Time: 7.746
+
+Name API: CheckBalance
+Time: 9.294
+
+Name API: GetAccountBalances
+Time: 9.707
+
+Name API: GetAccountContacts
+Time: 11.247
+
+Name API: GetAccountContracts
+Time: 6.961
+
+Name API: GetAccountBillingProfile
+Time: 8.708
+
+Name API: GetAccountBankInfo
+Time: 6.335
+
+Name API: GetAccountPayments
+Time: 5.97
+
+Name API: GetAccPmtProfiles
+Time: 6.953
+
+Name API: GetAccountInfo
+Time: 19.954
+
+Name API: GetAccountProducts
+Time: 10.082
+
+Name API: CheckBalance
+Time: 7.185
+
+Name API: GetAccountBalances
+Time: 9.785
+
+Name API: GetAccountTriggers
+Time: 10.257
+
+Name API: GetAccountInfo
+Time: 23.195
+
+Name API: GetAccountProducts
+Time: 12.019
+
+Name API: CheckBalance
+Time: 16.76
+
+Name API: GetAccountBalances
+Time: 9.906
+
+Name API: GetAccountTriggers
+Time: 6.342
+
+Name API: GetAccountInfo
+Time: 18.394
+
+Name API: LookupAccount
+Time: 8.626
+
+Name API: ProcessEvent
+Time: 21.043
+
+Name API: GetAccountProducts
+Time: 11.617
+
+Name API: GetAccountLC
+Time: 19.518
+
+Name API: GetAccountAddress
+Time: 7.031
+
+Name API: CheckBalance
+Time: 10.562
+
+Name API: GetAccountBalances
+Time: 11.263
+
+Name API: GetAccountContacts
+Time: 21.846
+
+Name API: GetAccountContracts
+Time: 6.3
+
+Name API: GetAccountBillingProfile
+Time: 6.121
+
+Name API: GetAccountBankInfo
+Time: 6.455
+
+Name API: GetAccountPayments
+Time: 30.933
+
+Name API: GetAccPmtProfiles
+Time: 6.48
+
+Name API: GetAccountInfo
+Time: 30.034
+
+Name API: LookupAccount
+Time: 8.933
+
+Name API: GetAccountProducts
+Time: 18.419
+
+Name API: GetProductInfo
+Time: 16.526
+
+Name API: GetAccountProducts
+Time: 61.295
+
+Name API: GetAccountLC
+Time: 15.52
+
+Name API: GetAccountAddress
+Time: 10.056
+
+Name API: CheckBalance
+Time: 10.416
+
+Name API: GetAccountBalances
+Time: 13.216
+
+Name API: GetAccountContacts
+Time: 9.014
+
+Name API: GetAccountContracts
+Time: 7.573
+
+Name API: GetAccountBillingProfile
+Time: 9.787
+
+Name API: GetAccountBankInfo
+Time: 9.483
+
+Name API: GetAccountPayments
+Time: 9.212
+
+Name API: GetAccPmtProfiles
+Time: 9.049
+
+Name API: GetAccountInfo
+Time: 32.866
+
+Name API: GetAccountProducts
+Time: 17.478
+
+Name API: CheckBalance
+Time: 17.26
+
+Name API: GetAccountBalances
+Time: 9.384
+
+Name API: GetAccountTriggers
+Time: 6.8
+
+Name API: GetAccountInfo
+Time: 19.096
+
+Name API: LookupAccount
+Time: 8.8
+
+Name API: ProcessEvent
+Time: 28.034
+
+Name API: UpdateAccountProduct
+Time: 24.978
+
+Name API: GetAccountProducts
+Time: 12.056
+
+Name API: GetAccountLC
+Time: 7.417
+
+Name API: GetAccountAddress
+Time: 7.346
+
+Name API: CheckBalance
+Time: 11.237
+
+Name API: GetAccountBalances
+Time: 9.324
+
+Name API: GetAccountContacts
+Time: 8.197
+
+Name API: GetAccountContracts
+Time: 7.841
+
+Name API: GetAccountBillingProfile
+Time: 6.008
+
+Name API: GetAccountBankInfo
+Time: 6.552
+
+Name API: GetAccountPayments
+Time: 7.572
+
+Name API: GetAccPmtProfiles
+Time: 6.615
+
+Name API: GetAccountInfo
+Time: 16.225
+
+Name API: GetAccountProducts
+Time: 9.672
+
+Name API: CheckBalance
+Time: 5.755
+
+Name API: GetAccountBalances
+Time: 8.196
+
+Name API: GetAccountTriggers
+Time: 7.888
+
+Name API: GetAccountInfo
+Time: 18.887
+
+Name API: LookupAccount
+Time: 6.402
+
+Name API: ProcessEvent
+Time: 26.374
+
+Name API: UpdateAccountProduct
+Time: 29.996
+
+Name API: LookupAccount
+Time: 10.52
+
+Name API: GetAccountProducts
+Time: 15.459
+
+Name API: GetProductInfo
+Time: 10.154
+
+Name API: GetAccountProducts
+Time: 14.275
+
+Name API: CheckBalance
+Time: 7.302
+
+Name API: GetAccountBalances
+Time: 8.886
+
+Name API: GetAccountTriggers
+Time: 7.331
+
+Name API: GetAccountInfo
+Time: 14.667
+
+Name API: LookupAccount
+Time: 8.54
+
+Name API: ProcessEvent
+Time: 25.042
+
+Name API: UpdateAccountProduct
+Time: 26.248
+
+Name API: LookupAccount
+Time: 7.218
+
+Name API: GetAccountProducts
+Time: 14.346
+
+Name API: GetProductInfo
+Time: 9.277
+
+Name API: GetAccountProducts
+Time: 9.875
+
+Name API: CheckBalance
+Time: 10.398
+
+Name API: GetAccountBalances
+Time: 13.421
+
+Name API: GetAccountTriggers
+Time: 8.353
+
+Name API: GetAccountInfo
+Time: 21.129
+
+Name API: LookupAccount
+Time: 7.321
+
+Name API: ProcessEvent
+Time: 19.128
+
+Name API: UpdateAccountProduct
+Time: 40.393
+
+Name API: LookupAccount
+Time: 8.314
+
+Name API: GetAccountProducts
+Time: 13.904
+
+Name API: GetProductInfo
+Time: 16.05
+
+Name API: RefreshTenantCache
+Time: 17.271
+
+Name API: RefreshTenantCache
+Time: 29.207
+
+Name API: RefreshTenantCache
+Time: 3.713
+
+Name API: RefreshTenantCache
+Time: 67.746
+
+Name API: RunSystemInit
+Time: 11.693
+
+Name API: RefreshTenantCache
+Time: 1.492
+
+Name API: RefreshTenantCache
+Time: 25.861
+
+Name API: RefreshTenantCache
+Time: 0.864
+
+Name API: RefreshTenantCache
+Time: 56.006
+
+Name API: RunSystemInit
+Time: 3.479
+
+Name API: RefreshTenantCache
+Time: 2495.476
+
+Name API: RefreshTenantCache
+Time: 663.894
+
+Name API: RefreshTenantCache
+Time: 472.513
+
+Name API: RefreshTenantCache
+Time: 850.617
+
+Name API: RunSystemInit
+Time: 5417.984
+
+Name API: ApplyUpgrade
+Time: 34.237
+
+Name API: RefreshTenantCache
+Time: 1885.621
+
+Name API: ApplyUpgrade
+Time: 19.146
+
+Name API: RefreshTenantCache
+Time: 1167.371
+
+Name API: RefreshTenantCache
+Time: 2262.662
+
+Name API: RefreshTenantCache
+Time: 869.515
+
+Name API: RefreshTenantCache
+Time: 833.529
+
+Name API: RefreshTenantCache
+Time: 1414.964
+
+Name API: RunSystemInit
+Time: 7125.208
+
+Name API: RefreshTenantCache
+Time: 10.989
+
+Name API: RefreshTenantCache
+Time: 26.938
+
+Name API: RefreshTenantCache
+Time: 8.059
+
+Name API: RefreshTenantCache
+Time: 31.129
+
+Name API: RunSystemInit
+Time: 64.225
+
+Name API: RefreshTenantCache
+Time: 4.5
+
+Name API: RefreshTenantCache
+Time: 17.908
+
+Name API: RefreshTenantCache
+Time: 5.956
+
+Name API: RefreshTenantCache
+Time: 11.627
+
+Name API: RunSystemInit
+Time: 13.83
+
+Name API: RefreshTenantCache
+Time: 17.157
+
+Name API: LoadTenant
+Time: 41.863
+
+Name API: GetAccountContacts
+Time: 6.448
+
+Name API: ContactManagement
+Time: 6.874
+
+Name API: AddContact
+Time: 36.759
+
+Name API: AddressManagement
+Time: 8.534
+
+Name API: AddAddress
+Time: 6.373
+
+Name API: LookupAccount
+Time: 8.07
+
+Name API: ContractManagement
+Time: 9.626
+
+Name API: AddContract
+Time: 7.887
+
+Name API: AddBalances
+Time: 14.698
+
+Name API: CreateAccount
+Time: 21.701
+
+Name API: GetAccountProducts
+Time: 8.117
+
+Name API: GetAccountLC
+Time: 7.748
+
+Name API: GetAccountAddress
+Time: 6.872
+
+Name API: CheckBalance
+Time: 6.553
+
+Name API: GetAccountBalances
+Time: 18.773
+
+Name API: GetAccountContacts
+Time: 10.523
+
+Name API: GetAccountContracts
+Time: 6.87
+
+Name API: GetAccountBillingProfile
+Time: 6.598
+
+Name API: GetAccountBankInfo
+Time: 7.15
+
+Name API: GetAccountPayments
+Time: 9.033
+
+Name API: GetAccPmtProfiles
+Time: 6.911
+
+Name API: GetAccountInfo
+Time: 34.948
+
+Name API: GetProductInfo
+Time: 12.937
+
+Name API: LookupAccount
+Time: 8.721
+
+Name API: GetAccountProducts
+Time: 8.886
+
+Name API: GetProductInfo
+Time: 35.682
+
+Name API: LookupAccount
+Time: 9.209
+
+Name API: GetProductInfo
+Time: 13.493
+
+Name API: LookupAccount
+Time: 7.803
+
+Name API: GetAccountProducts
+Time: 7.453
+
+Name API: GetAccountContracts
+Time: 8.755
+
+Name API: GetAccountInfo
+Time: 36.085
+
+Name API: GetAccountProducts
+Time: 26.171
+
+Name API: AddProduct
+Time: 327.642
+
+Name API: AddBalances
+Time: 11.109
+
+Name API: GetAccountProducts
+Time: 24.257
+
+Name API: GetAccountLC
+Time: 6.651
+
+Name API: GetAccountAddress
+Time: 7.572
+
+Name API: CheckBalance
+Time: 8.007
+
+Name API: GetAccountBalances
+Time: 28.003
+
+Name API: GetAccountContacts
+Time: 10.182
+
+Name API: GetAccountContracts
+Time: 7.93
+
+Name API: GetAccountBillingProfile
+Time: 8.164
+
+Name API: GetAccountBankInfo
+Time: 7.882
+
+Name API: GetAccountPayments
+Time: 6.993
+
+Name API: GetAccPmtProfiles
+Time: 6.983
+
+Name API: GetAccountInfo
+Time: 60.016
+
+Name API: LookupAccount
+Time: 6.547
+
+Name API: ProcessEvent
+Time: 21.26
+
+Name API: LookupAccount
+Time: 7.058
+
+Name API: ProcessEvent
+Time: 58.381
+
+Name API: LookupAccount
+Time: 8.966
+
+Name API: ProcessEvent
+Time: 22.685
+
+Name API: LookupAccount
+Time: 5.465
+
+Name API: ProcessEvent
+Time: 18.282
+
+Name API: LookupAccount
+Time: 4.987
+
+Name API: ProcessEvent
+Time: 34.004
+
+Name API: LookupAccount
+Time: 7.516
+
+Name API: ProcessEvent
+Time: 35.939
+
+Name API: LookupAccount
+Time: 7.199
+
+Name API: ProcessEvent
+Time: 34.805
+
+Name API: LookupAccount
+Time: 8.185
+
+Name API: ProcessEvent
+Time: 29.351
+
+Name API: LookupAccount
+Time: 6.65
+
+Name API: ProcessEvent
+Time: 44.477
+
+Name API: RefreshTenantCache
+Time: 2.999
+
+Name API: RefreshTenantCache
+Time: 58.625
+
+Name API: RefreshTenantCache
+Time: 12.557
+
+Name API: RefreshTenantCache
+Time: 18.24
+
+Name API: RunSystemInit
+Time: 6.996
+
+Name API: ApplyUpgrade
+Time: 113.074
+
+Name API: RefreshTenantCache
+Time: 16.85
+
+Name API: RefreshTenantCache
+Time: 17.08
+
+Name API: RefreshTenantCache
+Time: 17.384
+
+Name API: RefreshTenantCache
+Time: 7.922
+
+Name API: RefreshTenantCache
+Time: 7.427
+
+Name API: RunSystemInit
+Time: 8.33
+
+Name API: RefreshTenantCache
+Time: 66.665
+
+Name API: LoadTenant
+Time: 56.373
+
+Name API: GetAccountContacts
+Time: 7.437
+
+Name API: ContactManagement
+Time: 9.381
+
+Name API: AddContact
+Time: 20.38
+
+Name API: AddressManagement
+Time: 10.012
+
+Name API: AddAddress
+Time: 12.125
+
+Name API: LookupAccount
+Time: 7.322
+
+Name API: ContractManagement
+Time: 6.438
+
+Name API: AddContract
+Time: 7.719
+
+Name API: AddBalances
+Time: 9.421
+
+Name API: GetProductInfo
+Time: 7.476
+
+Name API: GetAccountProducts
+Time: 6.059
+
+Name API: GetAccountContracts
+Time: 9.637
+
+Name API: GetAccountInfo
+Time: 9.593
+
+Name API: GetAccountProducts
+Time: 24.12
+
+Name API: AddProduct
+Time: 62.36
+
+Name API: CreateAccount
+Time: 104.47
+
+Name API: AddBalances
+Time: 30.313
+
+Name API: LookupAccount
+Time: 5.784
+
+Name API: LookupAccount
+Time: 7.548
+
+Name API: LookupAccount
+Time: 24.821
+
+Name API: GetAccountProducts
+Time: 24.21
+
+Name API: GetAccountLC
+Time: 10.444
+
+Name API: GetAccountLC
+Time: 8.699
+
+Name API: SetLC
+Time: 45.437
+
+Name API: GetAccountAddress
+Time: 8.805
+
+Name API: LookupAccount
+Time: 7.757
+
+Name API: CheckBalance
+Time: 49.627
+
+Name API: LookupAccount
+Time: 10.015
+
+Name API: GetAccountBalances
+Time: 10.097
+
+Name API: GetAccountLC
+Time: 9.386
+
+Name API: GetAccountContacts
+Time: 16.472
+
+Name API: SetLC
+Time: 21.78
+
+Name API: GetAccountContracts
+Time: 8.408
+
+Name API: LookupAccount
+Time: 30.981
+
+Name API: GetAccountLC
+Time: 9.924
+
+Name API: ApplyLCTemplate
+Time: 31.989
+
+Name API: GetAccountBillingProfile
+Time: 13.561
+
+Name API: GetAccountBankInfo
+Time: 7.119
+
+Name API: GetAccountPayments
+Time: 7.078
+
+Name API: GetAccPmtProfiles
+Time: 10.779
+
+Name API: GetAccountInfo
+Time: 31.599
+
+Name API: GetAccountContacts
+Time: 9.546
+
+Name API: ContactManagement
+Time: 9.246
+
+Name API: AddContact
+Time: 5.763
+
+Name API: AddressManagement
+Time: 6.801
+
+Name API: AddAddress
+Time: 19.452
+
+Name API: LookupAccount
+Time: 9.939
+
+Name API: ContractManagement
+Time: 6.703
+
+Name API: AddContract
+Time: 6.268
+
+Name API: AddBalances
+Time: 8.013
+
+Name API: GetProductInfo
+Time: 6.826
+
+Name API: GetAccountProducts
+Time: 16.755
+
+Name API: GetAccountContracts
+Time: 5.788
+
+Name API: GetAccountInfo
+Time: 7.332
+
+Name API: GetAccountProducts
+Time: 10.335
+
+Name API: AddProduct
+Time: 32.288
+
+Name API: CreateAccount
+Time: 22.421
+
+Name API: AddBalances
+Time: 27.176
+
+Name API: LookupAccount
+Time: 15.072
+
+Name API: LookupAccount
+Time: 9.839
+
+Name API: GetAccountProducts
+Time: 14.66
+
+Name API: LookupAccount
+Time: 8.128
+
+Name API: GetAccountLC
+Time: 10.256
+
+Name API: GetAccountLC
+Time: 34.086
+
+Name API: SetLC
+Time: 28.921
+
+Name API: GetAccountAddress
+Time: 63.59
+
+Name API: LookupAccount
+Time: 8.427
+
+Name API: CheckBalance
+Time: 17.561
+
+Name API: GetAccountBalances
+Time: 14.194
+
+Name API: LookupAccount
+Time: 7.2
+
+Name API: GetAccountContacts
+Time: 20.42
+
+Name API: GetAccountLC
+Time: 14.082
+
+Name API: GetAccountContracts
+Time: 26.502
+
+Name API: SetLC
+Time: 57.734
+
+Name API: GetAccountBillingProfile
+Time: 8.237
+
+Name API: LookupAccount
+Time: 19.682
+
+Name API: GetAccountLC
+Time: 9.408
+
+Name API: ApplyLCTemplate
+Time: 44.109
+
+Name API: GetAccountBankInfo
+Time: 36.979
+
+Name API: GetAccountPayments
+Time: 6.476
+
+Name API: GetAccPmtProfiles
+Time: 11.963
+
+Name API: GetAccountInfo
+Time: 15.054
+
+Name API: GetAccountProducts
+Time: 9.762
+
+Name API: GetAccountLC
+Time: 7.375
+
+Name API: GetAccountAddress
+Time: 8.967
+
+Name API: CheckBalance
+Time: 8.823
+
+Name API: GetAccountBalances
+Time: 22.951
+
+Name API: GetAccountContacts
+Time: 6.618
+
+Name API: GetAccountContracts
+Time: 8.187
+
+Name API: GetAccountBillingProfile
+Time: 6.302
+
+Name API: GetAccountBankInfo
+Time: 18.083
+
+Name API: GetAccountPayments
+Time: 8.195
+
+Name API: GetAccPmtProfiles
+Time: 12.707
+
+Name API: GetAccountInfo
+Time: 15.307
+
+Name API: LookupAccount
+Time: 13.878
+
+Name API: CheckBalance
+Time: 16.516
+
+Name API: CheckBalanceActual
+Time: 17.794
+
+Name API: GetAccountProducts
+Time: 15.327
+
+Name API: GetAccountLC
+Time: 7.448
+
+Name API: GetAccountAddress
+Time: 7.756
+
+Name API: CheckBalance
+Time: 20.87
+
+Name API: GetAccountBalances
+Time: 18.616
+
+Name API: GetAccountContacts
+Time: 7.575
+
+Name API: GetAccountContracts
+Time: 8.352
+
+Name API: GetAccountBillingProfile
+Time: 6.526
+
+Name API: GetAccountBankInfo
+Time: 7.637
+
+Name API: GetAccountPayments
+Time: 8.685
+
+Name API: GetAccPmtProfiles
+Time: 7.529
+
+Name API: GetAccountInfo
+Time: 14.693
+
+Name API: GetProductInfo
+Time: 48.092
+
+Name API: LookupAccount
+Time: 11.065
+
+Name API: GetAccountProducts
+Time: 11.458
+
+Name API: GetProductInfo
+Time: 9.598
+
+Name API: LookupAccount
+Time: 9.365
+
+Name API: GetProductInfo
+Time: 11.894
+
+Name API: LookupAccount
+Time: 7.253
+
+Name API: GetAccountProducts
+Time: 9.853
+
+Name API: GetAccountContracts
+Time: 9.731
+
+Name API: GetAccountInfo
+Time: 10.729
+
+Name API: LookupAccount
+Time: 6.547
+
+Name API: GetAccountProducts
+Time: 8.85
+
+Name API: UpdateSoldProductLC
+Time: 66.205
+
+Name API: TerminateProduct
+Time: 15.928
+
+Name API: GetAccountProducts
+Time: 10.169
+
+Name API: AddProduct
+Time: 90.421
+
+Name API: AddBalances
+Time: 50.386
+
+Name API: LookupAccount
+Time: 15.888
+
+Name API: LookupAccount
+Time: 9.013
+
+Name API: LookupAccount
+Time: 45.305
+
+Name API: GetAccountLC
+Time: 58.556
+
+Name API: SetLC
+Time: 50.099
+
+Name API: LookupAccount
+Time: 11.47
+
+Name API: GetAccountLC
+Time: 12.285
+
+Name API: ApplyLCTemplate
+Time: 26.883
+
+Name API: GetAccountProducts
+Time: 15.185
+
+Name API: GetAccountLC
+Time: 6.53
+
+Name API: GetAccountAddress
+Time: 6.29
+
+Name API: CheckBalance
+Time: 6.308
+
+Name API: GetAccountBalances
+Time: 23.432
+
+Name API: GetAccountContacts
+Time: 7.158
+
+Name API: GetAccountContracts
+Time: 10.1
+
+Name API: GetAccountBillingProfile
+Time: 7.55
+
+Name API: GetAccountBankInfo
+Time: 8.665
+
+Name API: GetAccountPayments
+Time: 9.062
+
+Name API: GetAccPmtProfiles
+Time: 7.084
+
+Name API: GetAccountInfo
+Time: 18.259
+
+Name API: LookupAccount
+Time: 16.092
+
+Name API: GetAccountProducts
+Time: 14.509
+
+Name API: GetProductInfo
+Time: 9.217
+
+Name API: LookupAccount
+Time: 8.127
+
+Name API: GetAccountProducts
+Time: 12.787
+
+Name API: GetProductInfo
+Time: 12.243
+
+Name API: GetAccountProducts
+Time: 18.372
+
+Name API: GetAccountLC
+Time: 10.458
+
+Name API: GetAccountAddress
+Time: 7.746
+
+Name API: CheckBalance
+Time: 9.294
+
+Name API: GetAccountBalances
+Time: 9.707
+
+Name API: GetAccountContacts
+Time: 11.247
+
+Name API: GetAccountContracts
+Time: 6.961
+
+Name API: GetAccountBillingProfile
+Time: 8.708
+
+Name API: GetAccountBankInfo
+Time: 6.335
+
+Name API: GetAccountPayments
+Time: 5.97
+
+Name API: GetAccPmtProfiles
+Time: 6.953
+
+Name API: GetAccountInfo
+Time: 19.954
+
+Name API: GetAccountProducts
+Time: 10.082
+
+Name API: CheckBalance
+Time: 7.185
+
+Name API: GetAccountBalances
+Time: 9.785
+
+Name API: GetAccountTriggers
+Time: 10.257
+
+Name API: GetAccountInfo
+Time: 23.195
+
+Name API: GetAccountProducts
+Time: 12.019
+
+Name API: CheckBalance
+Time: 16.76
+
+Name API: GetAccountBalances
+Time: 9.906
+
+Name API: GetAccountTriggers
+Time: 6.342
+
+Name API: GetAccountInfo
+Time: 18.394
+
+Name API: LookupAccount
+Time: 8.626
+
+Name API: ProcessEvent
+Time: 21.043
+
+Name API: GetAccountProducts
+Time: 11.617
+
+Name API: GetAccountLC
+Time: 19.518
+
+Name API: GetAccountAddress
+Time: 7.031
+
+Name API: CheckBalance
+Time: 10.562
+
+Name API: GetAccountBalances
+Time: 11.263
+
+Name API: GetAccountContacts
+Time: 21.846
+
+Name API: GetAccountContracts
+Time: 6.3
+
+Name API: GetAccountBillingProfile
+Time: 6.121
+
+Name API: GetAccountBankInfo
+Time: 6.455
+
+Name API: GetAccountPayments
+Time: 30.933
+
+Name API: GetAccPmtProfiles
+Time: 6.48
+
+Name API: GetAccountInfo
+Time: 30.034
+
+Name API: LookupAccount
+Time: 8.933
+
+Name API: GetAccountProducts
+Time: 18.419
+
+Name API: GetProductInfo
+Time: 16.526
+
+Name API: GetAccountProducts
+Time: 61.295
+
+Name API: GetAccountLC
+Time: 15.52
+
+Name API: GetAccountAddress
+Time: 10.056
+
+Name API: CheckBalance
+Time: 10.416
+
+Name API: GetAccountBalances
+Time: 13.216
+
+Name API: GetAccountContacts
+Time: 9.014
+
+Name API: GetAccountContracts
+Time: 7.573
+
+Name API: GetAccountBillingProfile
+Time: 9.787
+
+Name API: GetAccountBankInfo
+Time: 9.483
+
+Name API: GetAccountPayments
+Time: 9.212
+
+Name API: GetAccPmtProfiles
+Time: 9.049
+
+Name API: GetAccountInfo
+Time: 32.866
+
+Name API: GetAccountProducts
+Time: 17.478
+
+Name API: CheckBalance
+Time: 17.26
+
+Name API: GetAccountBalances
+Time: 9.384
+
+Name API: GetAccountTriggers
+Time: 6.8
+
+Name API: GetAccountInfo
+Time: 19.096
+
+Name API: LookupAccount
+Time: 8.8
+
+Name API: ProcessEvent
+Time: 28.034
+
+Name API: UpdateAccountProduct
+Time: 24.978
+
+Name API: GetAccountProducts
+Time: 12.056
+
+Name API: GetAccountLC
+Time: 7.417
+
+Name API: GetAccountAddress
+Time: 7.346
+
+Name API: CheckBalance
+Time: 11.237
+
+Name API: GetAccountBalances
+Time: 9.324
+
+Name API: GetAccountContacts
+Time: 8.197
+
+Name API: GetAccountContracts
+Time: 7.841
+
+Name API: GetAccountBillingProfile
+Time: 6.008
+
+Name API: GetAccountBankInfo
+Time: 6.552
+
+Name API: GetAccountPayments
+Time: 7.572
+
+Name API: GetAccPmtProfiles
+Time: 6.615
+
+Name API: GetAccountInfo
+Time: 16.225
+
+Name API: GetAccountProducts
+Time: 9.672
+
+Name API: CheckBalance
+Time: 5.755
+
+Name API: GetAccountBalances
+Time: 8.196
+
+Name API: GetAccountTriggers
+Time: 7.888
+
+Name API: GetAccountInfo
+Time: 18.887
+
+Name API: LookupAccount
+Time: 6.402
+
+Name API: ProcessEvent
+Time: 26.374
+
+Name API: UpdateAccountProduct
+Time: 29.996
+
+Name API: LookupAccount
+Time: 10.52
+
+Name API: GetAccountProducts
+Time: 15.459
+
+Name API: GetProductInfo
+Time: 10.154
+
+Name API: GetAccountProducts
+Time: 14.275
+
+Name API: CheckBalance
+Time: 7.302
+
+Name API: GetAccountBalances
+Time: 8.886
+
+Name API: GetAccountTriggers
+Time: 7.331
+
+Name API: GetAccountInfo
+Time: 14.667
+
+Name API: LookupAccount
+Time: 8.54
+
+Name API: ProcessEvent
+Time: 25.042
+
+Name API: UpdateAccountProduct
+Time: 26.248
+
+Name API: LookupAccount
+Time: 7.218
+
+Name API: GetAccountProducts
+Time: 14.346
+
+Name API: GetProductInfo
+Time: 9.277
+
+Name API: GetAccountProducts
+Time: 9.875
+
+Name API: CheckBalance
+Time: 10.398
+
+Name API: GetAccountBalances
+Time: 13.421
+
+Name API: GetAccountTriggers
+Time: 8.353
+
+Name API: GetAccountInfo
+Time: 21.129
+
+Name API: LookupAccount
+Time: 7.321
+
+Name API: ProcessEvent
+Time: 19.128
+
+Name API: UpdateAccountProduct
+Time: 40.393
+
+Name API: LookupAccount
+Time: 8.314
+
+Name API: GetAccountProducts
+Time: 13.904
+
+Name API: GetProductInfo
+Time: 16.05
+
+Name API: RefreshTenantCache
+Time: 17.271
+
+Name API: RefreshTenantCache
+Time: 29.207
+
+Name API: RefreshTenantCache
+Time: 3.713
+
+Name API: RefreshTenantCache
+Time: 67.746
+
+Name API: RunSystemInit
+Time: 11.693
+
+Name API: RefreshTenantCache
+Time: 1.492
+
+Name API: RefreshTenantCache
+Time: 25.861
+
+Name API: RefreshTenantCache
+Time: 0.864
+
+Name API: RefreshTenantCache
+Time: 56.006
+
+Name API: RunSystemInit
+Time: 3.479
+
+Name API: RefreshTenantCache
+Time: 2495.476
+
+Name API: RefreshTenantCache
+Time: 663.894
+
+Name API: RefreshTenantCache
+Time: 472.513
+
+Name API: RefreshTenantCache
+Time: 850.617
+
+Name API: RunSystemInit
+Time: 5417.984
+
+Name API: ApplyUpgrade
+Time: 34.237
+
+Name API: RefreshTenantCache
+Time: 1885.621
+
+Name API: ApplyUpgrade
+Time: 19.146
+
+Name API: RefreshTenantCache
+Time: 1167.371
+
+Name API: RefreshTenantCache
+Time: 2262.662
+
+Name API: RefreshTenantCache
+Time: 869.515
+
+Name API: RefreshTenantCache
+Time: 833.529
+
+Name API: RefreshTenantCache
+Time: 1414.964
+
+Name API: RunSystemInit
+Time: 7125.208
+
